@@ -1,7 +1,7 @@
 name: lolaricci
 favicon: null
-layout_spectrum: 0.23205205402337015
-typography_spectrum: 0.34791361493989825
+layout_spectrum: 1
+typography_spectrum: 0.11944
 title: Lola Ricci · custom cookies
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.2485398231074214
-  lightness: 0.5799156622961164
-  saturation: 0.7698130977805704
-  rhythmicContrast: 0.8250444035511464
+    - '#f85257'
+    - '#9c9c9c'
+    - '#ff0000'
+    - '#ffffff'
+    - '#000000'
+  brandStrength: 0
+  lightness: 0.6875
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
