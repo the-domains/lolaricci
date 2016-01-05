@@ -1,0 +1,28 @@
+name: lolaricci
+favicon: null
+layout_spectrum: 0.23205205402337015
+typography_spectrum: 0.34791361493989825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2485398231074214
+  lightness: 0.5799156622961164
+  saturation: 0.7698130977805704
+  rhythmicContrast: 0.8250444035511464
+purpose: []
